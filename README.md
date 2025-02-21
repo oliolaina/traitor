@@ -2,7 +2,9 @@
 
 aaaaaaaoooooooo 
 
-exploit low-hanging fruit to pop a root shell. you had my eyes american sports
+exploit fruit to pop a root shell. you had my eyes american sports
+
+You're a bad thing!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
