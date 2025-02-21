@@ -2,7 +2,7 @@
 
 gjfgfjgldkjfgldkjlk
 
-Automatically exploit fruit to pop a root shell. Linux privilege escalation made easy!
+Automatically exploit fruit (fruit??) to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
